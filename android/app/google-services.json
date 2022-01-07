@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031540642569",
+    "project_id": "sdd-fall-2021-team-1",
+    "storage_bucket": "sdd-fall-2021-team-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031540642569:android:7fe11f7ac065239d5b39d8",
+        "android_client_info": {
+          "package_name": "edu.uco.mrohit.cs4513.test0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031540642569-l242rk5l94d329e7aho8t1ruql2qnq1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uco.mrohit.cs4513.test0",
+            "certificate_hash": "855db94751a8a28ce11cc381eb84306630e18ef0"
+          }
+        },
+        {
+          "client_id": "1031540642569-p73k3j9gdsi3b608ghkl6egj4psa6d4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNP-SCFnEXA9gPOZDZsCJIS_wwSysS_0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031540642569-p73k3j9gdsi3b608ghkl6egj4psa6d4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
